@@ -1,2 +1,4 @@
-# cores-nvim
-Repo contendo todos os temas modificados por mim no nvim
+# peachpuff.vim
+
+A light vim colorscheme for use with Cool-Retro-Term, tweaking the
+original peachpuff from vim.
